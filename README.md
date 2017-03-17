@@ -1,2 +1,0 @@
-# serverfiles
-The server files.
